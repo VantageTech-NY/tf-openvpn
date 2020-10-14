@@ -1,2 +1,2 @@
 # tf-openvpn
-Digital Ocean Terraform OpenVPN Install
+Digital Ocean OpenVPN-AS Terraform install
